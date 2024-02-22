@@ -1,0 +1,70 @@
+// Make Burger Pseudocode
+/* Burger
+  ingredients
+  lettuce
+  tomato
+  sauces
+  garlic mayo
+  ketchup
+  tomato relish 
+  beef patty 1/4 lb (approx 100g of beef)
+  equip
+  pan/griddle
+  plate
+  chopping board
+  cutting knife
+  bread knife
+  bread board
+  spatula
+  fork
+  knife
+  spoon
+  kitchen roll
+  gloves
+  collander */
+
+wash(ingredient, collander=0) {
+  dry(ingredient, kitchenRoll)
+}
+
+prepare(ingredient, wash=no) {
+  if(wash) {
+
+  } else {
+
+  }
+  prepare ingredient
+}
+
+
+
+prepare(tomato, wash=yes)
+prepare(lettuce, wash=yes)
+cook(burger, t=10, flip=true)
+slice(bun, 1)
+
+slice(ingredient, times=1) {
+  ingredient/times+1
+  return slices
+}
+
+add_condiment(sauce_1, slices[0])
+add_condiment(sauce_2, slices[1])
+add_condiment(sauce_3, burger)
+
+add_condiment(sauce, knife=yes, spoon=no) {
+  if spoon == true{
+    spoon(sauce)
+  }
+  if knife == true{
+    spread(sauce)
+  }
+  wipe(knife)
+}
+
+
+
+
+plate(burger)
+cook(fries, t=20)
+prepare(drink, wash=no)
