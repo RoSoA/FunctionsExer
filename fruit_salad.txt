@@ -1,0 +1,35 @@
+/* 
+Pimms Fruit Salad
+Making calculations using arithmetic operators.
+calculations
+Comparing information using *comparison operators*. < > == >= <=
+two main instances where we use comparison operators
+unknown quantity (greater or less than set value)
+compare two known values (relationship between two values)
+Creating logical expressions using *logical (aka Boolean) operators*.
+more than two comparisons (AND OR)
+logic - expression result in another boolean (decision tree)
+IL (serves 3/4)
+400g	strawberries, hulled and rinsed under the tap
+½	large cucumber, peeled
+2	Large Apples (such as Gala, Pink Lady)
+½	lemon
+2	oranges
+2	peaches
+a small bunch	mint leaves, roughly chopped
+For the Pimm's syrup:
+200ml	Pimm’s
+70g	caster sugar
+You could
+add raspberries,
+pears,
+apricots or
+blackcurrants.
+Cointreau Orange Liqueur 40% (Pimms 25%)
+How to make fruit salad with whipped cream
+It might seem ridiculous that there is such a thing as a recipe for a fruit salad. After all, it is mainly just about chopping some fruit up and mixing them together. But still, you can add some more ingredients to make it extra yummy.
+chop up the larger fruit - strawberries, bananas, kiwis, the smaller ones: grapes and blueberries can go in whole - if the grapes are rather large, you can also half or quarter them
+you can either add the pimm's as it is, or make it sweeter by adding a teaspoon of sugar to it to make it into a syrup
+squirt the cream on top and top with a cherry - if you don't have squirty cream, whip up the cream until it holds stiff peaks
+serve immediately
+*/
